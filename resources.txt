@@ -1,0 +1,10 @@
+Monday's class:
+https://zoom.us/rec/play/qId1llsan-h8BANb4rnAuciF3XT_0sMAheFSoD8oEnDXE-HaDtAC68M4YuHe1gvhcBI1U_NWlHMM2bgC.dOdBcz7qTDP4v8ij?startTime=1607392045000&_x_zm_rtaid=RG_JXApxT4KYpcR3Iq8SaQ.1607691534476.5e3fd4032b5614dea2343384ceacb979&_x_zm_rhtaid=274
+starts at 3:20
+He discusses how to set up tests and the basic classes and module layout
+This is also where I noticed that the project itself must be baselined from 
+the stuff proveded under 10-OOP/02-Homework/Develop
+
+Anthony discussing the project during office hours of Wednesday's class:
+https://zoom.us/rec/play/8_F1TN5Ltkp6Ew_SfBSJC4QWTDhHJ07hXj-tDYAb8V5MGFRvIIFopgrMIPI53YHWQb2ZL0is47IqZAKn.wtSvltTOczxTmOM6
+Starts at 4:42
