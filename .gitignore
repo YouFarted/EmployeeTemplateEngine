@@ -1,3 +1,6 @@
+# output folder for project generated files
+output/
+
 # Logs
 logs
 *.log
